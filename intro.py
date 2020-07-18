@@ -66,3 +66,30 @@ username = input("Enter your name:")  # sring formating
 print(f"Welcome {username} to our program ")
 
 
+# loops 
+
+# for loops
+# create a list with valiable name nums with 0-9
+
+nums = [0,1,2,3,4,5,6,7,8,9]
+
+for i in nums:
+	print(i)
+
+######
+######
+######
+######
+
+# print('######')
+# print('######')
+# print('######')
+# print('######')
+
+for i in range(0,4):
+	print('#'*4, end=' ')
+
+
+
+
+
