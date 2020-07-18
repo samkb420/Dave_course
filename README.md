@@ -1,4 +1,5 @@
 ## python course 
+>By Dave on #100dayofcode
 
 ###  Day 1
 1. Lists
@@ -8,3 +9,6 @@
 5. Inputs
 6. Functions
 7. Loops
+
+### Day 2
+1. ....
